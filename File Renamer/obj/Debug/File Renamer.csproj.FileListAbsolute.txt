@@ -1,0 +1,16 @@
+D:\Project\Desktop\File Renamer\Backup\File Renamer\bin\Debug\File Renamer.exe
+D:\Project\Desktop\File Renamer\Backup\File Renamer\bin\Debug\File Renamer.pdb
+D:\Project\Desktop\File Renamer\Backup\File Renamer\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Desktop\File Renamer\Backup\File Renamer\obj\Debug\File_Renamer.Form1.resources
+D:\Project\Desktop\File Renamer\Backup\File Renamer\obj\Debug\File_Renamer.Properties.Resources.resources
+D:\Project\Desktop\File Renamer\Backup\File Renamer\obj\Debug\File Renamer.csproj.GenerateResource.Cache
+D:\Project\Desktop\File Renamer\Backup\File Renamer\obj\Debug\File Renamer.exe
+D:\Project\Desktop\File Renamer\Backup\File Renamer\obj\Debug\File Renamer.pdb
+D:\Project\Desktop\File Renamer\File Renamer\obj\Debug\File Renamer.exe
+D:\Project\Desktop\File Renamer\File Renamer\obj\Debug\File Renamer.pdb
+D:\Project\Desktop\File Renamer\File Renamer\bin\Debug\File Renamer.exe
+D:\Project\Desktop\File Renamer\File Renamer\bin\Debug\File Renamer.pdb
+D:\Project\Desktop\File Renamer\File Renamer\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Desktop\File Renamer\File Renamer\obj\Debug\File_Renamer.Form1.resources
+D:\Project\Desktop\File Renamer\File Renamer\obj\Debug\File_Renamer.Properties.Resources.resources
+D:\Project\Desktop\File Renamer\File Renamer\obj\Debug\File Renamer.csproj.GenerateResource.Cache

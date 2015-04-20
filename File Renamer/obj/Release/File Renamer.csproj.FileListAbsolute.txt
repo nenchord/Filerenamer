@@ -1,0 +1,8 @@
+D:\Project\Desktop\File Renamer\File Renamer\bin\Release\File Renamer.exe
+D:\Project\Desktop\File Renamer\File Renamer\bin\Release\File Renamer.pdb
+D:\Project\Desktop\File Renamer\File Renamer\obj\Release\ResolveAssemblyReference.cache
+D:\Project\Desktop\File Renamer\File Renamer\obj\Release\File_Renamer.Form1.resources
+D:\Project\Desktop\File Renamer\File Renamer\obj\Release\File_Renamer.Properties.Resources.resources
+D:\Project\Desktop\File Renamer\File Renamer\obj\Release\File Renamer.csproj.GenerateResource.Cache
+D:\Project\Desktop\File Renamer\File Renamer\obj\Release\File Renamer.exe
+D:\Project\Desktop\File Renamer\File Renamer\obj\Release\File Renamer.pdb
